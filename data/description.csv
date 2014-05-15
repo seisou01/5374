@@ -1,5 +1,9 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+燃えるごみ,,,,#FFFF00
+燃えないごみ,,,,#D3D3D3
+拠点収集Ａ,,,,#A52A2A
+拠点収集Ｂ,,,,#FFDAB9
+容器包装プラスチック,,,,#32CD32
+ペットボトル,,,,#00FFFF
+飲料用アルミ缶,,,,#FFA500
+白色トレー,,,,#F5F5F5
